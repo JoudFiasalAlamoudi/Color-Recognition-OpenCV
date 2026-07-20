@@ -16,12 +16,13 @@ This project detects three colors (Blue, Orange, and Black) using a webcam with 
    pip install -r requirements.txt
 3. Run:
    python main.py
-   ## Project Images
+## Project Images
 
-### Blue Color
+### Blue Color Detection
+![Blue Color](Blue Color .png)
 
+### Orange Color Detection
+![Orange Color](Orange Color.png)
 
-### Orange Color 
-
-
-### Black Color 
+### Black Color Detection
+![Black Color](Black Color.png)
