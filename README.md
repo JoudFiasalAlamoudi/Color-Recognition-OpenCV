@@ -17,7 +17,9 @@ This project detects three colors (Blue, Orange, and Black) using a webcam with 
 3. Run:
    python main.py
 ## Project Images
+## Camera Used
 
+- Built-in laptop webcam.
 ### Blue Color Detection
 ![Blue Color](Blue%20Color1.png)
 
@@ -26,3 +28,7 @@ This project detects three colors (Blue, Orange, and Black) using a webcam with 
 
 ### Black Color Detection
 ![Black Color](./Black%20Color.png)
+
+## Project Files
+[main.py](https://github.com/user-attachments/files/30180633/main.py)
+
