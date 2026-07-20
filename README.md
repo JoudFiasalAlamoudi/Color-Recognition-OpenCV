@@ -19,10 +19,10 @@ This project detects three colors (Blue, Orange, and Black) using a webcam with 
 ## Project Images
 
 ### Blue Color Detection
-![Blue Color](Blue Color .png)
+![Blue Color](./Blue%20Color.png)
 
 ### Orange Color Detection
-![Orange Color](Orange Color.png)
+![Orange Color](./Orange%20Color.png)
 
 ### Black Color Detection
-![Black Color](Black Color.png)
+![Black Color](./Black%20Color.png)
